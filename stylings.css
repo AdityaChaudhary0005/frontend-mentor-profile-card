@@ -1,7 +1,7 @@
 body{
     justify-content: center;
     height: 100vh;
-    background: url(../bg-pattern-bottom.svg) top 350px right -400px no-repeat, url(../bg-pattern-top.svg) top -500px left -280px no-repeat;
+    background: url(bg-pattern-bottom.svg) top 350px right -400px no-repeat, url(bg-pattern-top.svg) top -500px left -280px no-repeat;
     background-color: hsl(185, 75%, 39%);
     display: flex;
     flex-direction: column;
